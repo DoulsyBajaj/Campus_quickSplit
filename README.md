@@ -3,7 +3,8 @@
 A high-performance expense management and debt-simplification web application built with Flutter, designed to help students and group members track shared expenses, analyze spending habits, and settle debts with minimal physical transactions.
 
 **Live Demo:** [https://doulsybajaj.github.io/Campus_quickSplit/](https://doulsybajaj.github.io/Campus_quickSplit/)  
-**Android APK:** [Download Latest APK](https://github.com/DoulsyBajaj/Campus_quickSplit/releases/latest/download/app-release.apk)
+**Android APK:** [Download Latest APK](https://github.com/DoulsyBajaj/Campus_quickSplit/releases/latest/download/app-release.apk)  
+**Demo Video:** [Watch Demo Video](https://drive.google.com/drive/folders/1kb_K77Ly_fsITs1QOqJYeuR4tlXqOv90?usp=sharing)
 ---
 
 ## Project Overview
